@@ -1,0 +1,33 @@
+@media (max-width: 768px) {
+    .container {
+        width: 768px;
+    }
+    .wrap {
+        width: 768px;
+    }
+    .flex-head-menu {
+        width: 768px;
+    }
+    .flex-head-menu-right {
+        margin-left: 424px;
+    }
+    .background {
+        width: 768px;
+        height: 368px;
+    }
+    .image_block {
+        width: 368px;
+        height: 368px;
+        margin-left: 0px;
+    }
+    .background_img {
+        width: 386px;
+        height: 368px;
+    }
+    .background_img {
+        margin-top: 0px;
+    }
+    .backgroung_text {
+        margin-left: 386px;
+    }
+}
